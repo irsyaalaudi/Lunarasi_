@@ -10,8 +10,11 @@ export default function Home() {
       <p className={styles.footerText}>
         Belum punya akun? <Link href="/startread">membaca</Link>
       </p>
-      <p className={styles.footerText}>
+      <p className="text-6xl">
         Belum punya akun? <Link href="/prosesread">membaca1</Link>
+      </p>
+      <p className={styles.footerText}>
+        Belum punya akun? <Link href="/cerpen">membaca</Link>
       </p>
 
     </div>

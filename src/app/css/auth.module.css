@@ -25,11 +25,12 @@
 }
 
 .card {
-  background-color: #2d1a4a;
+  background: linear-gradient(135deg, #2d1a4a 60%, #9f9ba5 100%);
   width: 360px;
   padding: 35px 30px;
   border-radius: 18px;
   color: #fff;
+  border: 1px solid #ccc;
 }
 
 .inputGroup {

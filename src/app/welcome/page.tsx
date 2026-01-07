@@ -8,7 +8,7 @@ function Welcome() {
         transform: "translate(-50%, -50%)"
       }}
     >
-      <h1>Selamat Datang Wahyu</h1>
+      <h1 className="text-8xl">Selamat Datang Wahyu</h1>
     </div>
   )
 }
